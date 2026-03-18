@@ -1,2 +1,2 @@
 # Hospital_management_system-
-A Complete Java Spring Boot project 
+A Complete Java Spring Boot project  connected to my sql project 
